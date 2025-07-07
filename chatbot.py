@@ -2,7 +2,7 @@
 import google.generativeai as genai
 import streamlit as st
 
-api = 'AIzaSyDL2UUq6pxoj9Pt1g-F8nXvLNy3M7XZmDQ'
+api = 'AIzaSyBc1Ngs2BxvhmiTX0e3KIwn5RfIYoErXdk'
 
 #configure google generative ai
 if api:
